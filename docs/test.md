@@ -8,7 +8,9 @@ __and this is bold__
 - is this a bullet
 - and this is another
 
-[Main Index](http://index.html)
+[Main Index](https://pdeutsch.github.io/GreenLogFiles/index.html)
+
+https://pdeutsch.github.io/GreenLogFiles/index.html
 
     int i;
     i = 12;
