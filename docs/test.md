@@ -8,7 +8,7 @@ __and this is bold__
 - is this a bullet
 - and this is another
 
-[Main Index](index.html)
+[Main Index](http://index.html)
 
     int i;
     i = 12;
